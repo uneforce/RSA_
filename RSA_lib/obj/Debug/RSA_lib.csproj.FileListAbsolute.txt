@@ -1,0 +1,5 @@
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №21\RSA_lib\bin\Debug\RSA_lib.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №21\RSA_lib\bin\Debug\RSA_lib.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №21\RSA_lib\obj\Debug\RSA_lib.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №21\RSA_lib\obj\Debug\RSA_lib.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №21\RSA_lib\obj\Debug\RSA_lib.pdb

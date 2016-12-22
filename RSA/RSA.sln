@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA_lib", "..\RSA_lib\RSA_lib.csproj", "{4BCB71B2-7468-445F-A97A-75A544E394EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA_test", "RSA_test\RSA_test.csproj", "{8800B91B-A79A-405B-83B8-97E004A5EF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCB71B2-7468-445F-A97A-75A544E394EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCB71B2-7468-445F-A97A-75A544E394EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCB71B2-7468-445F-A97A-75A544E394EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCB71B2-7468-445F-A97A-75A544E394EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8800B91B-A79A-405B-83B8-97E004A5EF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8800B91B-A79A-405B-83B8-97E004A5EF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8800B91B-A79A-405B-83B8-97E004A5EF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8800B91B-A79A-405B-83B8-97E004A5EF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
